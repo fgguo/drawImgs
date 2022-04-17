@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T11:25:22.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="jW-dG_vQq0lcYTRB3G0z" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T11:25:38.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="ojJdHKme3BEfV40z98OH" version="17.4.5" type="github" pages="4">
   <diagram id="C47Pr9LcSbccXJIOxYJe" name="lottery数据库">
     <mxGraphModel dx="1796" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
           <mxGeometry x="22" y="920" width="915" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Pz96xrmHh8Q_cynHrA4G-106" value="若首次成功领取活动：&lt;br&gt;发送MQ消息" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#B2C9AB;sketch=0;fontSize=16;fontColor=#000000;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="880" y="790" width="340" height="70" as="geometry" />
+          <mxGeometry x="880" y="787" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pz96xrmHh8Q_cynHrA4G-107" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;进行抽奖&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="415" y="930" width="110" height="50" as="geometry" />
