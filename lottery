@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T11:20:55.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="cEHkPR1MdPbWcfCcDUWQ" version="17.4.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-17T11:25:22.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="jW-dG_vQq0lcYTRB3G0z" version="17.4.5" type="github" pages="4">
   <diagram id="C47Pr9LcSbccXJIOxYJe" name="lottery数据库">
     <mxGraphModel dx="1796" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,8 +337,11 @@
         <mxCell id="Pz96xrmHh8Q_cynHrA4G-98" value="插入参与记录" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#B2C9AB;sketch=0;fontSize=16;fontColor=#000000;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="1100" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Pz96xrmHh8Q_cynHrA4G-145" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;fillColor=#B2C9AB;" edge="1" parent="1" source="Pz96xrmHh8Q_cynHrA4G-102" target="Pz96xrmHh8Q_cynHrA4G-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pz96xrmHh8Q_cynHrA4G-102" value="返回活动领取结果：&lt;br&gt;策略Id，TakeId，库存，剩余库存" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#B2C9AB;sketch=0;fontSize=16;fontColor=#000000;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="880" y="700" width="340" height="70" as="geometry" />
+          <mxGeometry x="880" y="675" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Pz96xrmHh8Q_cynHrA4G-118" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=2;fillColor=#B2C9AB;" edge="1" parent="1" source="Pz96xrmHh8Q_cynHrA4G-104" target="Pz96xrmHh8Q_cynHrA4G-117">
           <mxGeometry relative="1" as="geometry" />
